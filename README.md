@@ -2,8 +2,10 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
+# Component - Floating Navigation
+CMD-MIDTERM floating navigation component
 
+<img width="492" alt="Schermafbeelding 2022-11-23 om 10 15 27" src="https://user-images.githubusercontent.com/90447045/203509411-42216c3b-4299-46d6-bf0c-dc6b11c14849.png">
 
 ## Licentie
 
