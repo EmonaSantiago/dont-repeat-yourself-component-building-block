@@ -1,18 +1,38 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# create-svelte
 
-# Component - Floating Navigation
-CMD-MIDTERM floating navigation component
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-<img width="492" alt="Schermafbeelding 2022-11-23 om 10 15 27" src="https://user-images.githubusercontent.com/90447045/203509411-42216c3b-4299-46d6-bf0c-dc6b11c14849.png">
+## Creating a project
 
-<img width="266" alt="Schermafbeelding 2022-11-23 om 10 24 53" src="https://user-images.githubusercontent.com/90447045/203511424-fef90340-3e54-4a11-8191-8ad2c800109d.png">
-<img width="286" alt="Schermafbeelding 2022-11-23 om 10 25 07" src="https://user-images.githubusercontent.com/90447045/203511437-b3f77093-5450-42c0-a89b-e1072f97fb2a.png">
+If you're seeing this, you've probably already done this step. Congrats!
 
+```bash
+# create a new project in the current directory
+npm create svelte@latest
 
-## Licentie
+# create a new project in my-app
+npm create svelte@latest my-app
+```
 
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+## Developing
 
-This work is licensed under [GNU GPLv3](./LICENSE).
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
+
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
