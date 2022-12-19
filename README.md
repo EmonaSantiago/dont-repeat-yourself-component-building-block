@@ -1,5 +1,5 @@
 # Building Block - Floating Naviagtion.
-De floating-navigation component voor de (Gezamelijke)library. Bekijk de [Wiki]() 👩🏻‍💻📜
+De floating-navigation component voor de (Gezamelijke)library. Bekijk de [Wiki](https://github.com/EmonaSantiago/dont-repeat-yourself-component-building-block/wiki) 👩🏻‍💻📜
 
 # create-svelte
 
